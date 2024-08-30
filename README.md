@@ -27,7 +27,6 @@
   <h3>The ESP32 Thing Plus Controller Loaf part of BREAD</h3>
 </div>
 
-
 ## Introduction
 
 The loaf servers as the supervisory controller for one or more slices. The design includes the bus connectors, an ESP32 thingplus, 12v to 5v regulator, 3.3v to 5v logic level shifting, and I2C level shifting & accelerator
