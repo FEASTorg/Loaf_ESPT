@@ -5402,7 +5402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Fuse:Thermal Pad"
+		(property "Footprint" "KML-Custom:Thermal Pad"
 			(at 69.85 49.8348 0)
 			(effects
 				(font
@@ -5615,7 +5615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:SMT-JUMPER_2_NC_TRACE_SILK"
+		(property "Footprint" "SparkFun-Jumper:Jumper_2_NC_Trace"
 			(at 192.024 117.602 0)
 			(effects
 				(font
@@ -6761,7 +6761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SparkFun-Hardware:STAND-OFF"
+		(property "Footprint" "SparkFun-Hardware:Standoff"
 			(at 22.86 45.72 0)
 			(effects
 				(font
@@ -7566,7 +7566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SparkFun-Hardware:STAND-OFF"
+		(property "Footprint" "SparkFun-Hardware:Standoff"
 			(at 19.05 45.72 0)
 			(effects
 				(font
@@ -8094,7 +8094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP_THING_PLUS"
+		(property "Footprint" "SparkFun-Board:ThingPlus"
 			(at 44.45 105.41 0)
 			(effects
 				(font
@@ -8376,7 +8376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:SMT-JUMPER_2_NC_TRACE_SILK"
+		(property "Footprint" "SparkFun-Jumper:Jumper_2_NC_Trace"
 			(at 192.024 83.058 0)
 			(effects
 				(font
@@ -8726,7 +8726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:SMT-JUMPER_2_NC_TRACE_SILK"
+		(property "Footprint" "SparkFun-Jumper:Jumper_2_NC_Trace"
 			(at 192.024 105.918 0)
 			(effects
 				(font
@@ -8794,7 +8794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:SMT-JUMPER_2_NC_TRACE_SILK"
+		(property "Footprint" "SparkFun-Jumper:Jumper_2_NC_Trace"
 			(at 192.024 94.742 0)
 			(effects
 				(font
