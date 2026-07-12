@@ -1,10 +1,10 @@
-# LOAF ESPT
+# Loaf ESPT
 
-The ESP32 Thing Plus Controller Loaf part of BREAD
+ESP32 Thing Plus controller Loaf for building a BREAD from compatible Slices.
 
 ## Introduction
 
-The loaf servers as the supervisory controller for one or more slices. The design includes the bus connectors, an ESP32 thingplus, 12v to 5v regulator, 3.3v to 5v logic level shifting, and I2C level shifting & accelerator
+This Loaf serves as the supervisory controller and interconnect for one or more Slices. The design includes bus connectors, an ESP32 Thing Plus, a 12V to 5V regulator, 3.3V to 5V logic level shifting, and I2C level shifting and acceleration.
 
 ## Usage
 
